@@ -1,0 +1,6 @@
+{
+  "name": "Sight Words Word Search for Kids",
+  "description": "Interactive word search puzzle featuring List 11 sight words designed for 6-year-olds with large readable fonts, bright kid themes, audio speech, and simple touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
