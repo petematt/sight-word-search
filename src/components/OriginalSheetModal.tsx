@@ -43,7 +43,7 @@ export const OriginalSheetModal: React.FC<OriginalSheetModalProps> = ({
           {/* Photo Preview Container */}
           <div className="relative rounded-2xl overflow-hidden border-2 border-slate-300 dark:border-slate-700 bg-slate-100 dark:bg-slate-800 shadow-inner">
             <img
-              src="/assets/aistudio/17943167943216675034519693282581_274b2dc0.jpg"
+              src={`${import.meta.env.BASE_URL}assets/aistudio/17943167943216675034519693282581_274b2dc0.jpg`}
               alt="List 11 sight words homework worksheet"
               referrerPolicy="no-referrer"
               className="w-full h-auto max-h-72 object-contain mx-auto"
